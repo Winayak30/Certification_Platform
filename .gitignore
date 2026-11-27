@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+generated_certs/
+template.png
+members.csv
+members.xlsx
+.env
